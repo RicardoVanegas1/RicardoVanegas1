@@ -23,5 +23,5 @@ El proyecto incluyó el diseño eléctrico e informático, la configuración e i
 
 <!-- AQUÍ SE INSERTA LA IMAGEN DEBAJO DEL PROYECTO -->
 <p align="center">
-  <img src="images/banco_pruebas.png" alt="Configuración de Automatización del Banco de Pruebas" width="700">
+  <img src="images/diagrama de banco.png" alt="Configuración de Automatización del Banco de Pruebas" width="700">
 </p>
